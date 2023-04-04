@@ -28,7 +28,10 @@ https://www.linkedin.com/in/alexandr-kabanau/
 ### Final Project
 https://shipu4ka-rs-clone.netlify.app/
 
+Backend works till end of march 2023
+
 https://github.com/AlexKabanau/rsclone
+
 https://github.com/AlexKabanau/backend-rs-clone
 
 ### Online Store
