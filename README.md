@@ -24,11 +24,18 @@ https://www.linkedin.com/in/alexandr-kabanau/
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexKabanau&theme=solarized_dark)
 
 # Projects
+## PetProject
+### Way of the samurai
+It-camasutra.by - React Social Network \
+https://github.com/AlexKabanau/Way-of-the-Samurai
+https://alexkabanau.github.io/Way-of-the-Samurai/
+
+
 ## RSSchool Stage 2
 ### Final Project
 https://shipu4ka-rs-clone.netlify.app/
 
-Backend works till end of march 2023, or 
+Backend works till end of march 2023, or \
 https://alexkabanau.github.io/rsclone/ - should be working
 
 https://github.com/AlexKabanau/rsclone
