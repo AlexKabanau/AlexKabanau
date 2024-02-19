@@ -25,21 +25,23 @@ https://www.linkedin.com/in/alexandr-kabanau/
 
 # Projects
 ## PetProject
+### React Pizza
+Online Pizza Shop \
+https://github.com/AlexKabanau/ReactPizza \
+https://alexkabanau.github.io/ReactPizza/react_pizza/
+
 ### Way of the samurai
 It-camasutra.by - React Social Network \
-https://github.com/AlexKabanau/Way-of-the-Samurai
+https://github.com/AlexKabanau/Way-of-the-Samurai \
 https://alexkabanau.github.io/Way-of-the-Samurai/
 
 
 ## RSSchool Stage 2
 ### Final Project
-https://shipu4ka-rs-clone.netlify.app/
-
+https://shipu4ka-rs-clone.netlify.app/  \
 Backend works till end of march 2023, or \
-https://alexkabanau.github.io/rsclone/ - should be working
-
-https://github.com/AlexKabanau/rsclone
-
+https://alexkabanau.github.io/rsclone/ - should be working \
+https://github.com/AlexKabanau/rsclone \
 https://github.com/AlexKabanau/backend-rs-clone
 
 ### Online Store
