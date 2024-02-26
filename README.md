@@ -26,7 +26,7 @@ https://github.com/AlexKabanau/ReactPizza \
 https://alexkabanau.github.io/ReactPizza/react_pizza/
 
 ### Way of the samurai
-It-camasutra.by - React Social Network \
+It-kamasutra.by - React Social Network \
 https://github.com/AlexKabanau/Way-of-the-Samurai \
 https://alexkabanau.github.io/Way-of-the-Samurai/
 
