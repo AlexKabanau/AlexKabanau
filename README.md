@@ -11,17 +11,12 @@ https://www.linkedin.com/in/alexandr-kabanau/
 
 [![codewars](https://www.codewars.com/users/rsschool_c906d77e7f30ce91/badges/small)](https://www.codewars.com/users/rsschool_c906d77e7f30ce91)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexKabanau&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexKabanau&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexKabanau&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexKabanau&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKabanau&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKabanau&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexKabanau&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexKabanau&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexKabanau&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexKabanau&theme=github_dark)
 
 # Projects
 ## PetProject
