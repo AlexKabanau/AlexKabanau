@@ -20,6 +20,11 @@ https://www.linkedin.com/in/alexandr-kabanau/
 
 # Projects
 ## PetProject
+### Todolist
+Simple TodoList, analog of Trello. \
+https://github.com/AlexKabanau/ReactPizza \
+https://todolistbyalexkabanau.netlify.app/
+
 ### React Pizza
 Online Pizza Shop \
 https://github.com/AlexKabanau/ReactPizza \
