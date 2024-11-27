@@ -22,7 +22,7 @@ https://www.linkedin.com/in/alexandr-kabanau/
 ## PetProject
 ### NextPizza
 A full-fledged online store. A real copy of Dodo Pizza. \
-https://github.com/AlexKabanau/rsclone \
+https://github.com/AlexKabanau/NextPizza \
 https://next-pizza-coral.vercel.app/
 
 ### Todolist
