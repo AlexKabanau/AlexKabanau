@@ -20,6 +20,11 @@ https://www.linkedin.com/in/alexandr-kabanau/
 
 # Projects
 ## PetProject
+### NextPizza
+A full-fledged online store. A real copy of Dodo Pizza. \
+https://github.com/AlexKabanau/rsclone \
+https://next-pizza-coral.vercel.app/
+
 ### Todolist
 Simple TodoList, analog of Trello. \
 https://github.com/AlexKabanau/ReactPizza \
