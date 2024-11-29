@@ -1,5 +1,8 @@
 ### Hi there I'm Alexandr
-https://www.linkedin.com/in/alexandr-kabanau/
+https://www.linkedin.com/in/alexandr-kabanau/ 
+
+[Portfolio]([/guides/content/editing-an-existing-page](https://alex-kabanau-portfolio.netlify.app/))
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+FrontEnd+Developer)](https://git.io/typing-svg)
 
 
