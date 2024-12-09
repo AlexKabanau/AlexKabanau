@@ -1,7 +1,7 @@
 ### Hi there I'm Alexandr
 https://www.linkedin.com/in/alexandr-kabanau/ 
 
-[Portfolio](https://alex-kabanau-portfolio.netlify.app/)
+[Portfolio](https://alexkabanau.github.io/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+FrontEnd+Developer)](https://git.io/typing-svg)
 
