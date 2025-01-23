@@ -28,8 +28,9 @@ https://www.linkedin.com/in/alexandr-kabanau/
 
 # Projects
 ## PetProject
-### NextPizza
+### RedPlanner
 A full-stack analog of Trello. \
+https://red-planner-front-end-production.up.railway.app/auth \
 https://github.com/AlexKabanau/red-planner-back-end \
 https://github.com/AlexKabanau/red-planner-front-end
 
