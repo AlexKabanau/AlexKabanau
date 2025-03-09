@@ -1,0 +1,40 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    # Запуск каждый день в 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Позволяет запускать workflow вручную
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install axios sharp
+
+      - name: Generate stats images
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          USERNAME: AlexKabanau
+        run: |
+          mkdir -p stats
+          node .github/scripts/generate-stats.js
+
+      - name: Update README
+        run: node .github/scripts/update-readme.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push)
