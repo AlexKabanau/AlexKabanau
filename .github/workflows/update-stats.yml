@@ -2,13 +2,14 @@ name: Update GitHub Profile Stats
 
 on:
   schedule:
-    # Запуск каждый день в 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Позволяет запускать workflow вручную
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Добавлено разрешение на запись в репозиторий
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -24,7 +25,7 @@ jobs:
       - name: Generate stats images
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          USERNAME: AlexKabanau
+          GITHUB_USERNAME: AlexKabanau
         run: |
           mkdir -p stats
           node .github/scripts/generate-stats.js

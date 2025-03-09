@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
 
-const username = process.env.USERNAME;
+const username = process.env.GITHUB_USERNAME;
 const token = process.env.GITHUB_TOKEN;
 
 async function downloadImage(url, outputPath) {
